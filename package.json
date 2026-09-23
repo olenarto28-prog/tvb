@@ -1,0 +1,12 @@
+{
+  "name": "bananistaotv",
+  "version": "1.0.0",
+  "description": "Servidor de Stream",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-media-server": "^2.6.2"
+  }
+}
